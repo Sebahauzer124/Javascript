@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Agua de Rosas",
+        "precio": 1200,
+        "stock": 10,
+        "imagen": "../img/aguaderosas.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Serum Vitamina C",
+        "precio": 1500,
+        "stock": 8,
+        "imagen": "../img/serumvitc.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Crema Corporal Hidratante",
+        "precio": 1800,
+        "stock": 5,
+        "imagen": "../img/cremacorporal.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Serum anti-edad",
+        "precio": 800,
+        "stock": 15,
+        "imagen": "../img/serumantiedad.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Protector Solar",
+        "precio": 800,
+        "stock": 15,
+        "imagen": "../img/protectorsolar.png"
+    }
+]
